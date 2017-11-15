@@ -1,0 +1,754 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"attri",
+				"attributes"
+			],
+			[
+				"fun",
+				"function_name"
+			],
+			[
+				"ul",
+				"ulog\tiserror"
+			],
+			[
+				"dl",
+				"dlog\tisdebug"
+			],
+			[
+				"_",
+				"_satellite"
+			],
+			[
+				"hidd",
+				"hidden_ads"
+			],
+			[
+				"visi",
+				"visible_ads"
+			],
+			[
+				"wp_user",
+				"wp_usermeta"
+			],
+			[
+				"term",
+				"term_taxonomy_id"
+			],
+			[
+				"m",
+				"meta_value"
+			],
+			[
+				"gro",
+				"group_owner"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"FILTER_VAL",
+				"FILTER_VALIDATE_BOOLEAN"
+			],
+			[
+				"initia",
+				"initialnews"
+			],
+			[
+				"set_gen",
+				"set_event_newsletter_signup"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 466.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"emmet: in",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list packages",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 936.0
+	},
+	"console":
+	{
+		"height": 458.0,
+		"history":
+		[
+			"./update",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dev/Projects/perfectionby.design"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/EPE/DEV01/etc/httpd/conf.d/0ew.dev.settings",
+		"/D/xampp/htdocs/EPE/DEV01/etc/httpd/conf.d/0ew.conf",
+		"/D/xampp/htdocs/EPE/MT01/Production/sftp-config.json",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/classes/plugins/top_k12_job.class.php",
+		"/D/xampp/htdocs/EPE/MT01/Production/ew/html/css/styles/css/ewblogs.css",
+		"/D/xampp/htdocs/EPE/MT01/Production/ew/html/css/styles/css/tmblogs.css",
+		"/D/Apps/apache-jmeter-3.2/bin/Tests/Edweek/resources/login.csv",
+		"/D/Apps/apache-jmeter-3.2/bin/Tests/Edweek/resources/urls.csv",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/templates/shared/page_head.html",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/classes/plugins/page_head.class.php",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/mt.conf",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/classes/plugins/page_events.class.php",
+		"/D/xampp/htdocs/EPE/MT01/Production/blogs_project.sublime-project",
+		"/D/xampp/htdocs/EPE/MT01/opt/epe/mtblogs/tools/update.php",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/update.php",
+		"/D/xampp/htdocs/EPE/MT01/opt/epe/mtblogs/templates/ew/Archive_Templates/yyyy_mm_entry_basename.html",
+		"/D/xampp/htdocs/EPE/MT01/opt/epe/mtblogs/templates/re/Archive_Templates/yyyy_mm_entry_basename.html",
+		"/D/xampp/htdocs/EPE/MT01/opt/epe/mtblogs/templates/rt/Archive_Templates/yyyy_mm_entry_basename.html",
+		"/D/xampp/htdocs/EPE/MT01/opt/epe/mtblogs/templates/tm/Archive_Templates/yyyy_mm_entry_basename.html",
+		"/D/xampp/htdocs/EPE/MT01/opt/epe/mtblogs/templates/tsj/Archive_Templates/yyyy_mm_entry_basename.html",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/templates/ewblog/story_toolbox.html",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/classes/website.class.php",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/classes/Subscriber2.class.php",
+		"/D/xampp/htdocs/EPE/MT01/Production/mtblogs/html/includes/_common_body.html",
+		"/D/xampp/htdocs/EPE/MT01/Production/mtblogs/html/session.html",
+		"/D/xampp/htdocs/EPE/MT01/Production/mtblogs/html/includes/_common_includes.html",
+		"/D/xampp/htdocs/EPE/MT01/Production/ew/html/includes/common.html",
+		"/D/xampp/htdocs/EPE/MT01/Production/ew/html/includes/common_ewblog.html",
+		"/D/xampp/htdocs/EPE/MT01/Production/mtblogs/html/sso.html",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/classes/plugins/load_scripts.class.php",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/templates/shared/login_box.html",
+		"/D/xampp/htdocs/EPE/MT01/Production/mtblogs/html/css/ew_dialogue_secure.css",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/templates/ewblog/page_header_blog.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/page_header_R2009.html",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/templates/ewblog/page_header_R2009.html",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/classes/websitemodule.tmblog.class.php",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/page_header_blog.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/global.cfg",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/page_events.class.php",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/websitemodule.tsjblog.class.php",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/classes/websitemodule.ewblog.class.php",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/conf/global.cfg",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/classes/plugins/dtm.class.php",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/websitemodule.tmblog.class.php",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/classes/websitemodule.dd.class.php",
+		"/D/xampp/htdocs/EPE/MT01/Production/ew/html/js/metermessage_v2.min.js",
+		"/D/xampp/htdocs/EPE/MT01/Production/lib/classes/plugins/page_events.class.php.SAVE",
+		"/C/Users/Brian/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/Development",
+		"/C/Users/Brian/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/Development - Copy",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/.bash_functions",
+		"/D/xampp/htdocs/EPE/MT01/home/bpercival/bin/.bash_aliases",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/.bash_aliases",
+		"/D/xampp/htdocs/EPE/MT01/blogs_project.sublime-project",
+		"/D/xampp/htdocs/EPE/MT01/lib/classes/TierManager.class.php",
+		"/D/xampp/htdocs/EPE/MT01/mtblogs/html/js/epeobj.php",
+		"/D/xampp/htdocs/EPE/MT01/lib/templates/shared/page_head.html",
+		"/D/xampp/htdocs/EPE/MT01/mtblogs/html/js/common.js",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/blog.js",
+		"/D/xampp/htdocs/EPE/MT01/lib/classes/utils.class.php",
+		"/D/xampp/htdocs/EPE/MT01/lib/classes/Visit.class.php",
+		"/D/xampp/htdocs/EPE/MT01/lib/classes/Exception.class.php",
+		"/D/xampp/htdocs/EPE/MT01/lib/classes/Subscriber2.class.php",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/eric_upload.conf",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/httpd.conf",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/httpd.conf.SAVE",
+		"/C/Users/Brian/bin/.bash_functions",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/ewblogs.css",
+		"/C/Users/Brian/Documents/Delete/awk_example1.sh",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/unique_200_html.log",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/outage.log",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/delete_ap_stories.pl",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/article_update.pl",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/create_toc.pl",
+		"/D/xampp/htdocs/EPE/MT01/lib/conf/bottom_menu.xml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/addthis.js",
+		"/D/xampp/htdocs/EPE/MT01/lib/conf/tmblog_css.conf.xml",
+		"/D/xampp/htdocs/EPE/MT01/lib/classes/plugins/page_events.class.php",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/utils.class.php.save",
+		"/D/xampp/htdocs/EPE/MT01/mtblogs/html/js/featuredcontentglider.js",
+		"/D/xampp/htdocs/EPE/MT01/lib/conf/global.cfg",
+		"/D/xampp/htdocs/EPE/MT01/lib/classes/User.class.php",
+		"/D/xampp/htdocs/EPE/MT01/ew/html/js/blog.js",
+		"/D/xampp/htdocs/EPE/MT01/mtblogs/html/css/ew_pluck_v2.css",
+		"/D/xampp/htdocs/EPE/MT01/ew/html/css/styles/css/ewblogs.css",
+		"/D/xampp/htdocs/EPE/MT01/lib/templates/shared/pluck_comments.html",
+		"/D/xampp/htdocs/EPE/MT01/mtblogs/html/js/addthis.js",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/common_tmblog.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/common_ewblog.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/_common_includes.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/tm_header.html",
+		"/D/xampp/htdocs/EPE/MT01/lib/templates/tmblog/pluck_comments.html",
+		"/D/xampp/htdocs/EPE/MT01/lib/templates/ewblog/pluck_comments.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/yyyy_mm_entry_basename.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/yyyy_mm_entry_basename 2.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/yyyy_mm_entry_basename 3.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/yyyy_mm_entry_basename 4.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/yyyy_mm_entry_basename 5.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/pluck_dap.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/pluck_dap 2.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/pluck_dap_acc.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/common_include.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/html_head 2.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/entry_summary_pluck.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/post_comment_pluck.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/ew_header.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/entry_toolbar.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/yyyy_mm_index.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/entry_summary.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/folder_path_page_basename.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/main_index_content.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/style.css",
+		"/D/xampp/htdocs/EPE/MT01/mtblogs/html/js/blog.js",
+		"/D/xampp/htdocs/EPE/MT01/ew/html/js/addthis.js",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/tsb_nav_menu.xml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/tsjblog_nav_menu.xml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/tmblog_nav_menu.xml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/bottom_menu.xml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/tsj_bottom_menu.xml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/tm_nav_menu.xml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/bottom_dd_menu.xml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/html_head.html",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/nav_menu.xml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/tm_nav_menu 2.xml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/bottom_tm_menu.xml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/nav_menu 2.xml",
+		"/C/Users/Brian/AppData/Local/Temp/fz3temp-2/bottom_short_menu.xml"
+	],
+	"find":
+	{
+		"height": 72.0
+	},
+	"find_in_files":
+	{
+		"height": 204.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http://blogs",
+			".social",
+			"on_afte",
+			"fetch_on_dtm",
+			"fetch",
+			"content-n",
+			"content-",
+			"//}\n",
+			"error_log",
+			"err",
+			"auth",
+			"error",
+			"count",
+			"error",
+			"links",
+			"open h",
+			"myaccounts",
+			"open h",
+			"open hou",
+			"init",
+			"initp",
+			".js",
+			"http:",
+			".js",
+			"utils",
+			"_SESSION",
+			"date",
+			"real",
+			"monthly",
+			"debug",
+			"addthis",
+			"epe-sh",
+			"epe-s",
+			"addthis",
+			"share",
+			"addthis",
+			"emailit",
+			"UpdateBlogTemplate",
+			"getPubId",
+			"pubtype",
+			"http",
+			"edweeke",
+			"image",
+			"subscr",
+			"topics",
+			"request",
+			"blogtool",
+			"addthis",
+			"custom",
+			"199",
+			"blogtool",
+			"addthis",
+			"width",
+			"blog",
+			"455",
+			"display: inline",
+			"455",
+			"share",
+			"addthis",
+			"toolbox",
+			"article",
+			"custom_share",
+			"post-navigation",
+			"screen-reader-text",
+			",",
+			"ap",
+			"emailit",
+			"es",
+			"encryptedURI",
+			"intc=es",
+			"^([0-9]{1,3})\\.([0-9]{1,3})\\.([0-9]{1,3})\\.([0-9]{1,3})$",
+			"^\\n\\n",
+			"(<.+?>)",
+			">([^<]*)<",
+			"(?&lt;=>)(.+?)(?=&lt;)",
+			"(?&lt;=<)(.+?)(?=&gt;)",
+			"(?&gt;=<)(.+?)(?=&lt;)",
+			"(?&lt;=>)(.+?)(?=&lt;)",
+			"cidr",
+			".*",
+			",",
+			"1",
+			",",
+			"localhost",
+			"pma",
+			"www.edweek.org",
+			"www.ed",
+			"<?",
+			"uri",
+			"object",
+			",",
+			"object",
+			"srin",
+			"r_username",
+			"showerror",
+			"remote_ip",
+			"mod_user",
+			"remove",
+			"mod_req",
+			"session",
+			"alias",
+			"mod_php",
+			"so_m",
+			"http",
+			"mpm",
+			"logio",
+			"core",
+			"product",
+			"document",
+			"httpd",
+			"http",
+			"epeobj",
+			"getuser",
+			"p.",
+			"$ip",
+			"stage",
+			"preview",
+			"debug",
+			"template",
+			"smarty",
+			"on_after_page",
+			"footer",
+			"after_page",
+			"getuser",
+			"get",
+			"pagespee",
+			"page",
+			"pages"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"//blogs",
+			"\\n",
+			".\\*",
+			"dev.edweek.org",
+			"\\r",
+			"\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 61.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 141.0
+	},
+	"pinned_build_system": "",
+	"project": "perfectionbydesign.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lib/classes/top",
+				"lib\\classes\\plugins\\top_k12_job.class.php"
+			],
+			[
+				"ewblogs",
+				"css\\styles\\css\\ewblogs.css"
+			],
+			[
+				"page_head.html",
+				"lib\\templates\\shared\\page_head.html"
+			],
+			[
+				"page_head.c",
+				"lib\\classes\\plugins\\page_head.class.php"
+			],
+			[
+				"page_event",
+				"lib\\classes\\plugins\\page_events.class.php"
+			],
+			[
+				"story_toolbox",
+				"lib\\templates\\ewblog\\story_toolbox.html"
+			],
+			[
+				"page_head.cl",
+				"lib\\classes\\plugins\\page_head.class.php"
+			],
+			[
+				"page_even",
+				"lib\\classes\\plugins\\page_events.class.php"
+			],
+			[
+				"page_head.",
+				"lib\\classes\\plugins\\page_head.class.php"
+			],
+			[
+				"subscriber2",
+				"lib\\classes\\Subscriber2.class.php"
+			],
+			[
+				"common_bo",
+				"MTBLOGS HTML\\includes\\_common_body.html"
+			],
+			[
+				"common_inc",
+				"MTBLOGS HTML\\includes\\_common_includes.html"
+			],
+			[
+				"common_ewb",
+				"ew\\includes\\common_ewblog.html"
+			],
+			[
+				"includes/",
+				"includes\\common.html"
+			],
+			[
+				"session.html",
+				"MTBLOGS HTML\\session.html"
+			],
+			[
+				"sso.",
+				"MTBLOGS HTML\\sso.html"
+			],
+			[
+				"login_box",
+				"lib\\templates\\shared\\login_box.html"
+			],
+			[
+				"page_head",
+				"lib\\templates\\shared\\page_head.html"
+			],
+			[
+				"load_scr",
+				"lib\\classes\\plugins\\load_scripts.class.php"
+			],
+			[
+				"load_",
+				"lib\\classes\\plugins\\load_scripts.class.php"
+			],
+			[
+				"dtm.c",
+				"lib\\classes\\plugins\\dtm.class.php"
+			],
+			[
+				"global.cfg",
+				"lib\\conf\\global.cfg"
+			],
+			[
+				"websitemodule",
+				"lib\\classes\\websitemodule.ewblog.class.php"
+			],
+			[
+				"page_header_",
+				"lib\\templates\\ewblog\\page_header_blog.html"
+			],
+			[
+				"page_header_r",
+				"lib\\templates\\ewblog\\page_header_R2009.html"
+			],
+			[
+				"websitemodule.tm",
+				"lib\\classes\\websitemodule.tmblog.class.php"
+			],
+			[
+				"websitem",
+				"lib\\classes\\websitemodule.ewblog.class.php"
+			],
+			[
+				"websitemodule.dd",
+				"lib\\classes\\websitemodule.dd.class.php"
+			],
+			[
+				"global",
+				"lib\\conf\\global.cfg"
+			],
+			[
+				"page_events.class.ph",
+				"lib\\classes\\plugins\\page_events.class.php"
+			],
+			[
+				"meterm",
+				"js\\metermessage_v2.min.js"
+			],
+			[
+				"page_events.c",
+				"lib\\classes\\plugins\\page_events.class.php"
+			],
+			[
+				"subscr",
+				"lib\\classes\\Subscriber2.class.php"
+			],
+			[
+				"exce",
+				"lib\\classes\\Exception.class.php"
+			],
+			[
+				"visit.c",
+				"lib\\classes\\Visit.class.php"
+			],
+			[
+				"utils",
+				"lib\\classes\\utils.class.php"
+			],
+			[
+				"tmblog_c",
+				"lib\\conf\\tmblog_css.conf.xml"
+			],
+			[
+				"bottom",
+				"lib\\conf\\bottom_menu.xml"
+			],
+			[
+				"featured",
+				"html\\js\\featuredcontentglider.js"
+			],
+			[
+				"gl",
+				"lib\\conf\\global.cfg"
+			],
+			[
+				"utisl",
+				"lib\\classes\\utils.class.php"
+			],
+			[
+				"user.",
+				"lib\\classes\\User.class.php"
+			],
+			[
+				"epe",
+				"html\\js\\epeobj.php"
+			],
+			[
+				"ew_pluck",
+				"html\\css\\ew_pluck_v2.css"
+			],
+			[
+				"epeobj.php",
+				"html\\js\\epeobj.php"
+			],
+			[
+				"addthis",
+				"html\\js\\addthis.js"
+			],
+			[
+				"pluck_comments.html",
+				"lib\\templates\\tmblog\\pluck_comments.html"
+			],
+			[
+				"pluck_comments",
+				"lib\\templates\\ewblog\\pluck_comments.html"
+			],
+			[
+				"page_ev",
+				"lib\\classes\\plugins\\page_events.class.php"
+			],
+			[
+				"common.js",
+				"html\\js\\common.js"
+			],
+			[
+				"blog",
+				"html\\js\\blog.js"
+			],
+			[
+				"_ewblog",
+				"html\\css\\styles\\less\\_lib\\settings\\_ewblog.less"
+			],
+			[
+				"sharing",
+				"ew\\html\\css\\styles\\less\\_lib\\components\\_sharing.less"
+			],
+			[
+				"ewblogs.l",
+				"ew\\html\\css\\styles\\less\\ewblogs.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\EPE\\development\\Development.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 587.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
